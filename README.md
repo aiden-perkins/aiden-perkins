@@ -3,10 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Aiden%20Perkins-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aiden-perkins/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-perkins.aiden.m@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:perkins.aiden.m@gmail.com "Connect via Email")
 
-I am a 2nd-year Student at California State University Long Beach, pursuing a Bachelor's in Computer Science with a focus in Machine Learning and Artificial Intelligence. I am passionate about learning new languages, competitive programming, and I'm looking for an internship!
+I am a 2nd-year Student at California State University Long Beach, pursuing a Bachelor's in Computer Science. I am passionate about learning new languages, competitive programming, and football (Go Niners!)
 - 🦀 I'm currently learning Rust and want to eventually learn Go.
 - 💻 I use Arch BTW.
-- 🐍 Fun fact: some functions and structures in python are made in C allowing for massive performance improvements from what is seemingly bad code.
+- 🐍 Random fact: some functions and structures in python are made in C allowing for massive performance improvements from what is seemingly bad code.
 
 #### Languages & Tools
 
